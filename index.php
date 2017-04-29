@@ -10,7 +10,10 @@
   <table>
    <thead>
      <tr>
-       <th>Nombre</th>        
+       <th>Nombre</th>
+       <th>Descripcion</th>
+       <th>Imagen</th>
+      <th>Codigo</th>
      <tr>
    </thead>
    <?php
