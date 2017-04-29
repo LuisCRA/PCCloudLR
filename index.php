@@ -7,7 +7,7 @@
  </head>
  <body>
   <table>
-   <img src="images/arriba.png">
+   <img src="../images/arriba.png">
 
   </table>
   
