@@ -8,6 +8,11 @@
  <body>
   <h1 style="text-align:center;">Servicios</h1>
   <table>
+   <thead>
+     <tr>
+       <th>Nombre</th>        
+     <tr>
+   </thead>
    <?php
   $servername = "us-cdbr-iron-east-03.cleardb.net";
   $username = "b74ba3320e82ec";
