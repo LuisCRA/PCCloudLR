@@ -6,6 +6,11 @@
   <link rel="stylesheet" href="style.css" />
  </head>
  <body>
+  <table>
+   <img src="dfg.jpg">
+
+  </table>
+  
   <h1 style="text-align:center;">Servicios</h1>
   <table>
    <thead>
