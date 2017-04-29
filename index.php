@@ -35,7 +35,7 @@
       <tr>
       <td><?php echo $row['codigo_servicio']?></td>
       <td><?php echo $row['nombre_servicio']?></td>
-      <td><?php echo $row['descripcion_serivio']?></td>
+      <td><?php echo $row['descripcion_servicio']?></td>
       <!-- <td><?php echo $row['imagen_servicio']?></td> -->
       </tr>
      <?php }
