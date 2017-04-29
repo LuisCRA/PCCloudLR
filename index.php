@@ -10,10 +10,10 @@
   <table>
    <thead>
      <tr>
+       <th>Codigo</th>
        <th>Nombre</th>
        <th>Descripcion</th>
-       <th>Imagen</th>
-      <th>Codigo</th>
+      <th>Imagen</th>
      <tr>
    </thead>
    <?php
@@ -36,7 +36,7 @@
       <td><?php echo $row['codigo_servicio']?></td>
       <td><?php echo $row['nombre_servicio']?></td>
       <td><?php echo $row['descripcion_serivio']?></td>
-      <td><?php echo $row['imagen_servicio']?></td>
+      <!-- <td><?php echo $row['imagen_servicio']?></td> -->
       </tr>
      <?php }
   } else {
