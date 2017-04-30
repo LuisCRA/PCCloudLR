@@ -6,10 +6,10 @@
   <link rel="stylesheet" href="style.css" />
  </head>
  <body>
-  <table>
-   <img src="../images/arriba.png">
+  <div>
+   <img src="../images/arriba.jpg">
 
-  </table>
+  <div>
   
   <h1 style="text-align:center;">Servicios</h1>
   <table>
@@ -41,7 +41,7 @@
       <td><?php echo $row['codigo_servicio']?></td>
       <td><?php echo $row['nombre_servicio']?></td>
       <td><?php echo $row['descripcion_servicio']?></td>
-      <td><img src="../images/ima1.png"> </td>
+      <td><img src="../images/ima1.jpg"> </td>
       <!-- <td><?php echo $row['imagen_servicio']?></td> -->
       </tr>
      <?php }
