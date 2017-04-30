@@ -7,7 +7,7 @@
  </head>
  <body>
   <div>
-   <img src="../images/arriba.jpg">
+   <img src="../images/arriba.PNG">
 
   <div>
   
