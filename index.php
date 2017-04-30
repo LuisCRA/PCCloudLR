@@ -7,17 +7,10 @@
  </head>
  <body>
   
-   <!-- <div align="center">
+   <div align="center">
    <img  src="../images/arriba1.PNG">
-  </div> -->
-  
-  <div>
-    <img id="bg" src="../images/arriba1.PNG" alt="Fondo" />
-    <div id="content">
   </div>
    
-   
-  
   <h1 style="text-align:center;">Servicios</h1>
   <table>
    <thead>
@@ -58,14 +51,10 @@
   $conn->close();
  ?> 
  </table>
-   <div>
-     <img id="bg" src="../images/abajo1.png" alt="Fondo" />
-      <div id="content">
-   </div>
     
-   <!--<div align="center">
+  <div align="center">
       <img  src="../images/abajo1.png">
-    </div> -->
+    </div>
     
  </body>
      </html>
