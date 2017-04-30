@@ -7,7 +7,7 @@
  </head>
  <body>
   <div align="center">
-   <img  src="../images/arriba.PNG">
+   <img  src="../images/arriba1.PNG">
   <div>
   
   <h1 style="text-align:center;">Servicios</h1>
@@ -51,7 +51,7 @@
  ?> 
  </table>
     <div align="center">
-      <img  src="../images/arriba.PNG">
+      <img  src="../images/abajo.PNG">
     </div>
  </body>
      </html>
