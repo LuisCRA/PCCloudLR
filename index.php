@@ -6,9 +6,8 @@
   <link rel="stylesheet" href="style.css" />
  </head>
  <body>
-  <div>
-   <img src="../images/arriba.PNG">
-
+  <div align="center">
+   <img  src="../images/arriba.PNG">
   <div>
   
   <h1 style="text-align:center;">Servicios</h1>
@@ -51,5 +50,8 @@
   $conn->close();
  ?> 
  </table>
+    <div align="center">
+      <img  src="../images/arriba.PNG">
+    </div>
  </body>
- </html
+     </html>
