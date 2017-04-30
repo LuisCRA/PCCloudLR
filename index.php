@@ -51,7 +51,7 @@
  ?> 
  </table>
     <div align="center">
-      <img  src="../images/abajo.PNG">
+      <img  src="../images/abajo1.png">
     </div>
  </body>
      </html>
