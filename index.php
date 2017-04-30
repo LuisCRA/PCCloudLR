@@ -58,8 +58,14 @@
   $conn->close();
  ?> 
  </table>
-    <div align="center">
+   <div>
+     <img id="bg" src="../images/abajo1.png" alt="Fondo" />
+      <div id="content">
+   </div>
+    
+   <!--<div align="center">
       <img  src="../images/abajo1.png">
-    </div>
+    </div> -->
+    
  </body>
      </html>
