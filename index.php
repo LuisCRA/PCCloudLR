@@ -12,7 +12,7 @@
   <font color="black">
   <h1 style="text-align:center;">Servicios</h1>
   <table>
-   <thead font:>
+   <thead>
      <tr>
        <th>Codigo</th>
        <th>Nombre</th>
