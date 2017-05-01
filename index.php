@@ -1,5 +1,5 @@
 <!DOCTYPE html>
- <html>
+ <html >
  <head>
   <title>PHP Starter Application</title>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -49,10 +49,11 @@
   $conn->close();
  ?> 
  </table>
- </font>
-  <div align="center">
+
+  <div align="center" style="background-color:white;">
       <img  src="../images/abajo1.png">
    </div>
-    
+  </font>
  </body>
+  
      </html>
