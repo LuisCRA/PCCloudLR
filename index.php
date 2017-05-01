@@ -5,15 +5,14 @@
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <link rel="stylesheet" href="style.css" />
  </head>
- <body>
-  
+ <body style="background-color:white;">
    <div align="center">
    <img  src="../images/arriba1.PNG">
   </div>
-   
+  <font color="black">
   <h1 style="text-align:center;">Servicios</h1>
   <table>
-   <thead>
+   <thead font:>
      <tr>
        <th>Codigo</th>
        <th>Nombre</th>
@@ -50,7 +49,7 @@
   $conn->close();
  ?> 
  </table>
-    
+ </font>
   <div align="center">
       <img  src="../images/abajo1.png">
     </div>
