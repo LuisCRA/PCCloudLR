@@ -11,7 +11,7 @@
   </div>
   <font color="black">
   <h1 style="text-align:center;">Servicios</h1>
-  <table>
+  <table style="background-color:white;">
    <thead>
      <tr>
        <th>Codigo</th>
@@ -52,7 +52,7 @@
  </font>
   <div align="center">
       <img  src="../images/abajo1.png">
-    </div>
+   </div>
     
  </body>
      </html>
